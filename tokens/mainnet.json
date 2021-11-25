@@ -3446,5 +3446,13 @@
     "symbol": "QINDO",
     "decimals": 18,
 	  "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe07332FdCf3A8489B752CD86f3FdCD79eE9C373A/logo.png"
+  },
+  {
+    "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+    "chainId": 1,
+    "name": "Biconomy Token",
+    "symbol": "BICO",
+    "decimals": 18,
+	  "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF17e65822b568B3903685a7c9F496CF7656Cc6C2/logo.png"
   }
 ]
